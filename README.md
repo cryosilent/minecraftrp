@@ -1,2 +1,1 @@
-ver: 1.21x
-for java
+ver: 1.21x\nfor java
