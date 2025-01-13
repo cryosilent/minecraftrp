@@ -1,1 +1,1 @@
-ver: 1.21x\nfor java
+ver: 1.21x / for minecraft java
