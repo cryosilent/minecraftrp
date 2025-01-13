@@ -1,2 +1,2 @@
-# minecraftrp
-Мой ресурспак для Майнкрафта (сделанный в VanillaTweaks)
+ver: 1.21x
+for java
